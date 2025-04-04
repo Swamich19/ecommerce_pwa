@@ -1,0 +1,85 @@
+/* Body Background and Font */
+body {
+    background-color: #0e0e0e;
+    font-family: 'Orbitron', sans-serif;
+    color: #e0e0e0;
+  }
+  
+  /* Header */
+  .ui-header {
+    background-color: #1a1a1a !important;
+    border-bottom: 2px solid #3d3d3d;
+    color: #fff !important;
+    text-align: center;
+  }
+  
+  .ui-header h1 {
+    font-size: 1.6em;
+    color: #00ffcc;
+    text-shadow: none;
+  }
+  
+  /* Footer */
+  .ui-footer {
+    background-color: #1a1a1a !important;
+    border-top: 2px solid #3d3d3d;
+    text-align: center;
+    color: #888;
+  }
+  
+  /* Listview */
+  .ui-listview .ui-li-static {
+    background-color: #222;
+    color: #fff;
+    border-bottom: 1px solid #444;
+  }
+  
+  .ui-listview a {
+    background-color: #1b1b1b;
+    color: #00ffcc;
+    text-decoration: none;
+  }
+  
+  /* Product Image */
+  img {
+    border: 3px solid #2e2e2e;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 255, 204, 0.4);
+  }
+  
+  /* Buttons */
+  .ui-btn {
+    background-color: #00ffcc !important;
+    color: #000 !important;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: none;
+    border-radius: 5px;
+  }
+  
+  .ui-btn:hover {
+    background-color: #00bfa5 !important;
+  }
+  
+  /* Add to Cart Button */
+  .add-to-cart {
+    background-color: #ff3c00 !important;
+    color: white !important;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #cc2e00 !important;
+  }
+  
+  /* Shopping Cart Styling */
+  #cart-items li {
+    background-color: #1e1e1e;
+    color: #fff;
+    border-bottom: 1px solid #333;
+  }
+  
+  h3 {
+    color: #00ffcc;
+  }
+  
